@@ -9,6 +9,7 @@
         <e p="DebbieDone.cs" t="Include" />
         <e p="DestoryTut2.cs" t="Include" />
         <e p="DestroyMesh.cs" t="Include" />
+        <e p="KeyInput.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

@@ -62,6 +62,7 @@
     <Compile Include="Assets\DebbieDone.cs" />
     <Compile Include="Assets\DestoryTut2.cs" />
     <Compile Include="Assets\DestroyMesh.cs" />
+    <Compile Include="Assets\KeyInput.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/huffn/Documents/Git repo/Practice/Practice/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

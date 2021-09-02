@@ -35,6 +35,13 @@ public class ThommyProgram : MonoBehaviour
 	
 	print(not(chocolate_cookie > sugar_cookie))*/
 
+//	print( 5 > 2 and 4 < 8)
+//		age = 14
+//			if 15 > age 12:
+//			print("reduced price ticket")
+//			
+//			else print('Full price')
+
 	{
 
 	}

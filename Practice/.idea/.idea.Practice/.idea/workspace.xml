@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/KeyInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DestoryTut2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DestroyMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TypeThommyScripts.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThommyProgram.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -26,6 +27,7 @@
         <option value="$PROJECT_DIR$/Assets/DestroyMesh.cs" />
         <option value="$PROJECT_DIR$/Assets/KeyInput.cs" />
         <option value="$PROJECT_DIR$/Assets/ThommyProgram.cs" />
+        <option value="$PROJECT_DIR$/Assets/TypeThommyScripts.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +83,7 @@
       <workItem from="1590355201078" duration="1097000" />
       <workItem from="1630468717061" duration="345000" />
       <workItem from="1630566750741" duration="157000" />
+      <workItem from="1631079347715" duration="33000" />
     </task>
     <servers />
   </component>

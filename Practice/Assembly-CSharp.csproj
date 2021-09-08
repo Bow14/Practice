@@ -64,6 +64,7 @@
     <Compile Include="Assets\DestroyMesh.cs" />
     <Compile Include="Assets\KeyInput.cs" />
     <Compile Include="Assets\ThommyProgram.cs" />
+    <Compile Include="Assets\TypeThommyScripts.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/huffn/Documents/Git repo/Practice/Practice/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

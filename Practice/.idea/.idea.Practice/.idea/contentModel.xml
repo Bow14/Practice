@@ -10,6 +10,7 @@
         <e p="DestoryTut2.cs" t="Include" />
         <e p="DestroyMesh.cs" t="Include" />
         <e p="KeyInput.cs" t="Include" />
+        <e p="LEngthThommy.cs" t="Include" />
         <e p="ThommyProgram.cs" t="Include" />
         <e p="TypeThommyScripts.cs" t="Include" />
       </e>

@@ -63,6 +63,7 @@
     <Compile Include="Assets\DestoryTut2.cs" />
     <Compile Include="Assets\DestroyMesh.cs" />
     <Compile Include="Assets\KeyInput.cs" />
+    <Compile Include="Assets\LEngthThommy.cs" />
     <Compile Include="Assets\ThommyProgram.cs" />
     <Compile Include="Assets\TypeThommyScripts.cs" />
     <Reference Include="UnityEditor.StandardEvents">

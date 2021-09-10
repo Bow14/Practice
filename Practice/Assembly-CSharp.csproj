@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\DebbieDone.cs" />
+    <Compile Include="Assets\DEF.cs" />
     <Compile Include="Assets\DestoryTut2.cs" />
     <Compile Include="Assets\DestroyMesh.cs" />
     <Compile Include="Assets\KeyInput.cs" />
